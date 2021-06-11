@@ -2,8 +2,8 @@
 
 // visit io.adafruit.com if you need to create an account,
 // or if you need your Adafruit IO key.
-#define IO_USERNAME  "DAMGroup"
-#define IO_KEY       "aio_DiNy67BU4fUblZyT5nKjGLCxBODH"
+#define IO_USERNAME  "username"
+#define IO_KEY       "key"
 /******************************* WIFI **************************************/
 
 // the AdafruitIO_WiFi client will work with the following boards:
@@ -19,8 +19,8 @@
 //   - Adafruit AirLift Shield -> https://www.adafruit.com/product/4285
 //   - Adafruit AirLift FeatherWing -> https://www.adafruit.com/product/4264
 
-#define WIFI_SSID "IoT"
-#define WIFI_PASS "KdGIoT22!"
+#define WIFI_SSID "ssid"
+#define WIFI_PASS "password!"
 
 // uncomment the following line if you are using airlift
 // #define USE_AIRLIFT
